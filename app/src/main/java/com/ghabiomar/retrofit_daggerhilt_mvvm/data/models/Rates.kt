@@ -1,9 +1,6 @@
 package com.ghabiomar.retrofit_daggerhilt_mvvm.data.models
 
-
-
 data class Rates(
-
     val AED: Double,
     val AFN: Double,
     val ALL: Double,
